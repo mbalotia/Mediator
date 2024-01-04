@@ -1,0 +1,12 @@
+C:\Data\Prac\CustomMediatR\libCustomMediatR\obj\Debug\net7.0\libCustomMediatR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Prac\CustomMediatR\libCustomMediatR\obj\Debug\net7.0\libCustomMediatR.AssemblyInfoInputs.cache
+C:\Data\Prac\CustomMediatR\libCustomMediatR\obj\Debug\net7.0\libCustomMediatR.AssemblyInfo.cs
+C:\Data\Prac\CustomMediatR\libCustomMediatR\obj\Debug\net7.0\libCustomMediatR.csproj.CoreCompileInputs.cache
+C:\Data\Prac\CustomMediatR\libCustomMediatR\obj\Debug\net7.0\libCustomMediatR.csproj.AssemblyReference.cache
+C:\Data\Prac\CustomMediatR\libCustomMediatR\bin\Debug\net7.0\libCustomMediatR.deps.json
+C:\Data\Prac\CustomMediatR\libCustomMediatR\bin\Debug\net7.0\libCustomMediatR.dll
+C:\Data\Prac\CustomMediatR\libCustomMediatR\bin\Debug\net7.0\libCustomMediatR.pdb
+C:\Data\Prac\CustomMediatR\libCustomMediatR\obj\Debug\net7.0\libCustomMediatR.dll
+C:\Data\Prac\CustomMediatR\libCustomMediatR\obj\Debug\net7.0\refint\libCustomMediatR.dll
+C:\Data\Prac\CustomMediatR\libCustomMediatR\obj\Debug\net7.0\libCustomMediatR.pdb
+C:\Data\Prac\CustomMediatR\libCustomMediatR\obj\Debug\net7.0\ref\libCustomMediatR.dll
